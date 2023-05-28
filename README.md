@@ -1,2 +1,2 @@
-# Pro-Pong
+# Pygame pong game
 This is a simple pong game programmed using Python3 and the Pygame graphics module, uses the arrow keys and WASD keys to control the paddles.
